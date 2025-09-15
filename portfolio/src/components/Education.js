@@ -1,4 +1,5 @@
 
+
 import React from "react";
 import { FaGraduationCap } from "react-icons/fa";
 
@@ -29,3 +30,4 @@ function Education({ education }) {
 }
 
 export default Education;
+

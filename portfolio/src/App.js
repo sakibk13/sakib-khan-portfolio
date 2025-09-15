@@ -6,7 +6,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
-import Contact from "./components/Contact";
+// import Contact from "./components/Contact"; // Removed as per user request
 import Footer from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "animate.css/animate.min.css";
@@ -158,7 +158,6 @@ function App() {
       <Education education={portfolioData.education} />
       <Projects projects={portfolioData.projects} />
       <Experience experience={portfolioData.experience} />
-      <Contact email={portfolioData.email} />
       <Footer linkedin={portfolioData.linkedin} github={portfolioData.github} />
     </div>
   );

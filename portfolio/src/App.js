@@ -75,6 +75,7 @@ function App() {
         description:
           "Built a secure money transfer system enabling users to send, receive, and track transactions with an intuitive web interface.",
         githubLink: "#",
+        icon: "FaMoneyBillWave"
       },
       {
         name: "Hospital Management Portal",
@@ -82,6 +83,7 @@ function App() {
         description:
           "Developed a full-stack portal for managing patients, doctors, appointments, and medical records with real-time access.",
         githubLink: "#",
+        icon: "FaHospital"
       },
       {
         name: "Property Management Portal – PropertyWave",
@@ -89,6 +91,7 @@ function App() {
         description:
           "Designed and implemented a property portal for listing, buying, selling, and managing real estate seamlessly.",
         githubLink: "#",
+        icon: "FaBuilding"
       },
       {
         name: "Library Management System – LibraWave",
@@ -96,6 +99,7 @@ function App() {
         description:
           "Created a digital library platform for cataloging, borrowing, and tracking books with role-based user access.",
         githubLink: "#",
+        icon: "FaBook"
       },
       {
         name: "Parcel Delivery Platform – ParcelWave",
@@ -103,6 +107,7 @@ function App() {
         description:
           "Engineered a peer-to-peer delivery platform matching senders with travelers for efficient and cost-effective parcel delivery.",
         githubLink: "#",
+        icon: "FaBoxOpen"
       },
       {
         name: "Basic Games",
@@ -110,6 +115,7 @@ function App() {
         description:
           "Developed classic 2D games in Assembly language on the 8086 processor, demonstrating low-level programming and logic building.",
         githubLink: "#",
+        icon: "FaGamepad"
       },
       {
         name: "Car Price Prediction",
@@ -117,6 +123,7 @@ function App() {
         description:
           "Built a machine learning model to predict car prices based on features like brand, mileage, and engine capacity.",
         githubLink: "#",
+        icon: "FaCar"
       },
       {
         name: "Galaxy Attack Game",
@@ -124,6 +131,7 @@ function App() {
         description:
           "Designed and programmed a 2D shooting game using OpenGL, implementing game mechanics and interactive graphics.",
         githubLink: "#",
+        icon: "FaRocket"
       },
       {
         name: "Smart Safety Helmet",
@@ -131,6 +139,7 @@ function App() {
         description:
           "Created a hardware prototype helmet with safety sensors to detect accidents and alert emergency contacts.",
         githubLink: "#",
+        icon: "FaHardHat"
       },
       {
         name: "Voltage Deviation Visualizer",
@@ -138,6 +147,7 @@ function App() {
         description:
           "Developed a visualization tool to analyze and display voltage deviations in electrical circuits for monitoring system stability.",
         githubLink: "#",
+        icon: "FaBolt"
       },
     ],
     experience: [

@@ -6,7 +6,17 @@ function Home({ name }) {
   return (
     <section id="home" className="d-flex flex-column justify-content-center align-items-center text-center vh-100">
       <div className="container">
-        <h1 className="display-3 fw-bold">Hi, I'm {name}</h1>
+                <h1 className="display-3 fw-bold">
+          <TypeAnimation
+            sequence={[
+              `Hi, I'm ${name}`,
+              1000,
+            ]}
+            wrapper="span"
+            speed={50}
+            repeat={0}
+          />
+        </h1>
         <TypeAnimation
           sequence={[
             'A Full-Stack Web Developer',

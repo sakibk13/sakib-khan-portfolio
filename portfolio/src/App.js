@@ -65,12 +65,12 @@ function App() {
         "MS PowerPoint",
         "Canva",
         "Figma",
-        "Webframe",
+        "Wireframe",
       ],
     },
     projects: [
       {
-        name: "Money Transaction System – MoneyWave",
+        name: "Money Transaction System  ",
         stack: "HTML, CSS, PHP",
         description:
           "Built a secure money transfer system enabling users to send, receive, and track transactions with an intuitive web interface.",
@@ -86,7 +86,7 @@ function App() {
         icon: "FaHospital"
       },
       {
-        name: "Property Management Portal – PropertyWave",
+        name: "Property Management Portal ",
         stack: "MEAN",
         description:
           "Designed and implemented a property portal for listing, buying, selling, and managing real estate seamlessly.",
@@ -94,7 +94,7 @@ function App() {
         icon: "FaBuilding"
       },
       {
-        name: "Library Management System – LibraWave",
+        name: "Library Management System",
         stack: "Laravel",
         description:
           "Created a digital library platform for cataloging, borrowing, and tracking books with role-based user access.",
@@ -102,7 +102,7 @@ function App() {
         icon: "FaBook"
       },
       {
-        name: "Parcel Delivery Platform – ParcelWave",
+        name: "Parcel Delivery Platform ",
         stack: "MERN",
         description:
           "Engineered a peer-to-peer delivery platform matching senders with travelers for efficient and cost-effective parcel delivery.",
